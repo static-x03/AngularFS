@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Angular-FS"
+    }
+  },
+  "defaultProject": "Angular-FS",
+  "cli": {
+    "analytics": "4af48677-92f6-47c4-85a0-20f0bd549698"
+  }
 }
